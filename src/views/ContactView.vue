@@ -49,7 +49,7 @@ const copyEmail = () => {
         <h3>Réseaux Sociaux</h3>
         <p>Retrouvez-moi sur :</p>
         <div class="social-links">
-          <a href="https://linkedin.com/in/ton-profil" target="_blank" class="link">LinkedIn</a>
+          <a href="www.linkedin.com/in/william-thibaut-stilli-6745013b4" target="_blank" class="link">LinkedIn</a>
           <a href="https://github.com/William-Stilli" target="_blank" class="link">GitHub</a>
         </div>
       </div>
