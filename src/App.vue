@@ -24,8 +24,8 @@ import { RouterLink, RouterView } from 'vue-router'
     <footer>
       <p>&copy; 2026 William Stilli - Développeur Web & Mobile</p>
       <div class="socials">
-        <a href="https://github.com/ton-github" target="_blank">GitHub</a>
-        <a href="https://linkedin.com/in/ton-linkedin" target="_blank">LinkedIn</a>
+        <a href="https://github.com/William-Stilli" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/william-thibaut-stilli-6745013b4" target="_blank">LinkedIn</a>
       </div>
     </footer>
 
