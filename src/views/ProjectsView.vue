@@ -24,7 +24,7 @@ const projects = ref([
     description: 'Ce site web ! Développé avec Vue 3 et Vite pour présenter mes compétences.',
     technologies: ['Vue.js', 'CSS3', 'Vite'],
     image: '/images/portefolio.png',
-    githubLink: 'https://github.com/ton-pseudo/portfolio',
+    githubLink: 'https://github.com/William-Stilli/portfolio_william_stilli',
   }
 ])
 </script>
